@@ -1,0 +1,10 @@
+dist
+dist-ssr
+*.local
+node_modules
+.DS_Store
+pnpm-lock.yaml
+_app/dist
+*.log
+.env
+*.log
