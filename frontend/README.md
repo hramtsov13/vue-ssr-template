@@ -1,11 +1,5 @@
-# Website subscription
-
-# CMD
-
 To start vite dev server in spa mode `yarn dev`
 To build app run `yarn build`
-
-# Rules
 
 ## Gitflow
 
